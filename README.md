@@ -1,3 +1,3 @@
 # fsf-files
 
-This is a repository where I keep my files for FSF Bootcampl
+This is a repository where I keep my files for FSF Bootcamp
